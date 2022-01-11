@@ -1,0 +1,5 @@
+.cache/
+build/
+public/
+github-actions-reporter.js
+worker.build.js
